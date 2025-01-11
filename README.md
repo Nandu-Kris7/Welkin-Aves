@@ -24,4 +24,4 @@ Leveler
 The leveler is a mechanism designed to adjust the height of the landing plates where the drone lands. By precisely modifying the height, the leveler ensures that the drone’s battery aligns perfectly with the battery holder for seamless swapping.
 This system is powered by four linear actuators, all controlled by an Arduino, enabling accurate height adjustments for optimal alignment during the battery swapping process.
 
-I will add the CAD images and working of the Battery swapping station
+I have attached the CAD images and working of the Battery swapping station
